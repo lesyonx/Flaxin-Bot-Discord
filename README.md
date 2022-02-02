@@ -24,6 +24,10 @@
 
 - Ekonomi sistemi yapılıyor.
 
+# Proje içerisi
+
+- Sadece **#yardım sistemler** komutundaki sistemler main kodları ile beraberinde paylaşılacak.
+
 # Diğer Miladı Dolmuş Flaxin Projeleri
 
 - Flaxin Beta
