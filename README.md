@@ -24,9 +24,11 @@
 
 - Ekonomi sistemi yapılıyor.
 
-# Proje içerisi
+# Proje içeriği
 
 - Sadece **#yardım sistemler** komutundaki sistemler main kodları ile beraberinde paylaşılacak.
+
+- İstek gelirse botun tamamı paylaşılacaktır.
 
 # Diğer Miladı Dolmuş Flaxin Projeleri
 
@@ -41,3 +43,6 @@
 <a href="https://top.gg/bot/702917377230241802">
   <img src="https://top.gg/api/widget/owner/702917377230241802.svg">
 </a>
+
+
+<h1><img src = "https://cdn.discordapp.com/emojis/858340159451168789.webp?size=44&quality=lossless" high="25px" width="40px"> © Lesyon</h1>
